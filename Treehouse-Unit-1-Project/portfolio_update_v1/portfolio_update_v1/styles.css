@@ -100,6 +100,19 @@ header .profile-image:hover {
   border-radius: 6px;
   transition: all .5s;
 }
+.card1 {
+  margin: 30px;
+  padding: 20px 40px 40px;
+  max-width: 500px;
+  text-align: left;
+  background: #70CAE0;
+  border-bottom: 4px solid #ccc;
+  border-radius: 6px;
+  transition: all .5s;
+}
+.card1:hover {
+  border-color: #62F56B
+}
 .card:hover {
   border-color: #EB5EA5;
 }
