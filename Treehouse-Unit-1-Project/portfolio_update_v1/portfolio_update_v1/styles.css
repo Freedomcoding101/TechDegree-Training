@@ -54,7 +54,7 @@ a:hover {
   transition: all .5s;
 }
 .nav a:hover {
-  color: white
+  color: #EB5EA5
 }
 
 header {
@@ -100,6 +100,16 @@ header .profile-image:hover {
   border-radius: 6px;
   transition: all .5s;
 }
+.card2 {
+  margin: 30px;
+  padding: 50px 50px 50px;
+  max-width: 500px;
+  text-align: left;
+  background: #62F56B;
+  border-bottom: 4px solid #ccc;
+  border-radius: 6px;
+  transition: all .5s;
+}
 .card1 {
   margin: 30px;
   padding: 20px 40px 40px;
@@ -109,6 +119,9 @@ header .profile-image:hover {
   border-bottom: 4px solid #ccc;
   border-radius: 6px;
   transition: all .5s;
+}
+.card2:hover {
+  border-color: #EB5EA5
 }
 .card1:hover {
   border-color: #62F56B
